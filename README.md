@@ -1,1 +1,2 @@
 # test
+function {']{{ this x }
